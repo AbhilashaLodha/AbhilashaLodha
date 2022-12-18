@@ -116,7 +116,7 @@ Two of my papers were accepted at the CCVPR 2021 conference and got published by
 
 <hr>
 <div style="margin-top: 20px"></div>
-<p><img align="left"
+<p><img align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=abhilashalodha&show_icons=true&locale=en&layout=compact"
         alt="abhilashalodha" /></p>
 
