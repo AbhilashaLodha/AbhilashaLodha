@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **AI-ML Projects**
 
-- 🤝 I’m available for Full-time roles in AI-ML, NLP, Computer Vision, Data Science and Software Development.
+- 🤝 I’m available for **Full-time roles in AI-ML**
 
 - 💬 Ask me about **AI, ML, CV, NLP, Deep Learning**
 
