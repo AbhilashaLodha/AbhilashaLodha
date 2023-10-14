@@ -22,10 +22,26 @@
 
 <h2 align="left" style="font-weight: 700">Research work:</h2>
 <p style="margin-top: 10px">
-Two of my papers were accepted at the CCVPR 2021 conference and got published by Springer.
+I am proud to have worked on 4 papers, two of which got accepted at EMNLP 2023 conference. The rest two of my papers were accepted at the CCVPR 2021 conference and got published by Springer.
 
-1. In my first co-authored paper, I articulated ideas on segmenting non-restricted areas out of empty floor spaces and generating recommendations for balcony garden design systems using computer vision techniques. [Link](https://link.springer.com/chapter/10.1007/978-3-031-09909-0_7)
-2.  My second paper offered an end-to-end solution for borderless table detection and data extraction from scanned input documents using a custom-trained deep-learning model. [Link](https://link.springer.com/chapter/10.1007/978-3-031-09909-0_6)
+1. "On Surgical Fine-Tuning for Language Encoders" - Accepted @ EMNLP'23
+
+        • Devised selective fine-tuning using Fisher matrix to optimize performance of Large Language Models (LLMs)
+
+3. "Robust Code Summarization" - Accepted @ EMNLP'23 [LINK](https://github.com/Demon702/robust_code_summary)
+
+        • Assessed Large Language Models’ (LLMs) code summarization capability with semantic preserving code transformations
+
+5. "Floor Space Optimization and Recommendation System in 2D Space" - Published @ CCVPR'21 [LINK](https://link.springer.com/chapter/10.1007/978-3-031-09909-0_7)
+
+        • Developed a solution for optimizing empty floor space in balcony garden design recommendations with IoU score of 96.4%
+
+7. "Borderless Table Detection and Extraction in Scanned Documents" - Published @ CCVPR'21 [LINK](https://link.springer.com/chapter/10.1007/978-3-031-09909-0_6)
+
+        • Designed a pipeline for bordered & borderless table detection & data extraction with an accuracy of 98.4%
+
+<!--1. In my first co-authored paper, I articulated ideas on segmenting non-restricted areas out of empty floor spaces and generating recommendations for balcony garden design systems using computer vision techniques. [Link](https://link.springer.com/chapter/10.1007/978-3-031-09909-0_7)
+2.  My second paper offered an end-to-end solution for borderless table detection and data extraction from scanned input documents using a custom-trained deep-learning model. [Link](https://link.springer.com/chapter/10.1007/978-3-031-09909-0_6)-->
 </p>
 
 <hr>
